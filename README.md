@@ -15,6 +15,9 @@ pinned: false
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-Generative%20AI-orange)
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-purple)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)
+![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=huggingface)
+
+**[🚀 Try the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Abdelsalam-1/Smart-RAG-Chatbot)**
 
 Are you looking for an AI agent that doesn't just "talk", but actually *knows* about you or your business? You've found the right repository.
 
