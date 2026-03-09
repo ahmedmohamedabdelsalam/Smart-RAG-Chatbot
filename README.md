@@ -1,3 +1,12 @@
+---
+title: Smart RAG Chatbot
+emoji: 🤖
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
 # Smart RAG Chatbot 
 *A Production-Ready Retrieval-Augmented Generation (RAG) Assistant*
 
