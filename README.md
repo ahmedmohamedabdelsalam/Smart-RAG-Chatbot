@@ -1,6 +1,6 @@
 ---
 title: Smart RAG Chatbot
-emoji: 🤖
+emoji: doc
 colorFrom: blue
 colorTo: indigo
 sdk: docker
