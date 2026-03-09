@@ -1,0 +1,47 @@
+{
+  "name": "mysmartrag-bot",
+  "version": "1.0.0",
+  "description": "Premium n8n workflow collection for RAG-powered chatbots, document processing, and AI agents with vector database integration",
+  "main": "index.js",
+  "scripts": {
+    "setup": "python scripts/setup_wizard.py",
+    "validate": "python scripts/workflow_validator.py --check-all",
+    "import": "python scripts/workflow_importer.py",
+    "test": "pytest tests/",
+    "test:db": "python scripts/db_connection_test.py",
+    "backup": "python scripts/backup_workflows.py"
+  },
+  "keywords": [
+    "n8n",
+    "rag",
+    "chatbot",
+    "ai",
+    "vector-database",
+    "qdrant",
+    "openai",
+    "gemini",
+    "automation",
+    "workflow",
+    "langchain",
+    "document-processing",
+    "ai-agents"
+  ],
+  "author": "Ahmed Abdelsalam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmedAbdelsalam/MySmartRAG-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AhmedAbdelsalam/MySmartRAG-Bot/issues"
+  },
+  "homepage": "https://github.com/AhmedAbdelsalam/MySmartRAG-Bot#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "n8n": "^1.27.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}

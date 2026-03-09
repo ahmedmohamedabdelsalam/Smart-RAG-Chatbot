@@ -1,0 +1,96 @@
+الاسم: Ahmed Mohamed Abdelsalam
+
+المسمى الوظيفي: Machine Learning Engineer | Data Analyst | Applied AI
+
+نبذة:
+أنا مهندس تعلم آلي ومحلل بيانات متخصص في بناء أنظمة ذكاء اصطناعي تطبيقية وتحليل البيانات لدعم اتخاذ القرار. أمتلك خبرة في تطوير نماذج التعلم الآلي، تحليل البيانات باستخدام Python وSQL، وتصميم تجارب لتقييم أداء النماذج وفهم سلوكها في البيئات الواقعية.
+
+أهتم ببناء أنظمة ML قابلة للتحليل والتقييم، بالإضافة إلى تحويل البيانات الخام إلى تقارير ولوحات معلومات تساعد المؤسسات على اتخاذ قرارات مبنية على البيانات.
+
+الخبرة المهنية:
+
+Machine Learning Engineer – EcliptixAI
+2026 – حتى الآن
+الشركة: EcliptixAI — شركة ناشئة متخصصة في تطوير حلول الذكاء الاصطناعي وتطبيقات تحليل البيانات.
+الموقع الرسمي: https://ecliptix.net/
+
+المسؤوليات:
+
+* المساهمة في تطوير حلول تعتمد على التعلم الآلي لتحليل البيانات الأكاديمية والتخطيط التعليمي.
+* تحليل مجموعات بيانات كبيرة باستخدام Python وSQL لضمان جودة البيانات ودقتها.
+* بناء خطوط معالجة بيانات وتقارير داخلية لدعم اتخاذ القرار.
+* تصميم مقاييس تقييم للنماذج وتحليل الأداء واكتشاف نقاط الضعف.
+
+Computer Vision Intern – Cellula Technologies
+2025
+
+المسؤوليات:
+
+* تطوير خطوط تدريب واختبار لنماذج الرؤية الحاسوبية (Detection & Segmentation).
+* إجراء تجارب على تقنيات Data Augmentation والمعالجة المسبقة.
+* تحسين سرعة الاستدلال بنسبة 25٪ وتحسين التعميم بنسبة 15٪.
+
+التعليم:
+بكالوريوس الذكاء الاصطناعي
+Delta University for Science and Technology
+2021 – 2025
+GPA: 3.01 / 4.00
+
+المهارات التقنية:
+
+لغات البرمجة
+Python, TypeScript, JavaScript
+
+تحليل البيانات
+SQL (Advanced Queries, Joins, Aggregations, Window Functions)
+Python (Pandas, NumPy)
+Data Cleaning & Data Validation
+
+الذكاء الاصطناعي وتعلم الآلة
+Supervised & Unsupervised Learning
+Regression, Classification, Clustering
+Feature Engineering
+Model Evaluation & Experimentation
+
+الرؤية الحاسوبية
+Image Segmentation
+Detection Models
+Satellite Image Analysis
+
+أنظمة الذكاء الاصطناعي المتقدمة
+RAG Systems
+LLM Evaluation
+Retrieval Pipelines
+
+التصور والتحليل التجاري
+Power BI (Dashboards, DAX Basics)
+Advanced Excel (Pivot Tables, Power Query, Lookup Functions)
+KPI Tracking & Performance Reporting
+
+قواعد البيانات
+SQL Server, MySQL, PostgreSQL
+
+الأدوات
+Git, GitHub, Docker (Foundational), Jupyter Notebook, MLflow
+
+أبرز المشاريع:
+
+Smart RAG Ecosystem
+نظام يعتمد على Retrieval-Augmented Generation لتحليل واسترجاع المعلومات من مصادر متعددة ومقارنة أداء نماذج لغوية مختلفة وتحليل مشاكل الهلوسة وتحسين جودة الإجابات.
+
+Water Segmentation System
+نظام تقسيم صور أقمار صناعية باستخدام PyTorch وU-Net مع تحليل أداء النموذج باستخدام Dice Score و IoU.
+
+Retail Sales Data Analytics
+تحليل بيانات مبيعات باستخدام Python وSQL لاستخراج اتجاهات الإيرادات وتقسيم العملاء وتحليل أداء المنتجات.
+
+Cafe Sales Data Analysis
+تحليل بيانات المعاملات لتحديد المنتجات الأعلى أداءً والعوامل المؤثرة في الإيرادات مع إنشاء تقارير ولوحات بيانات.
+
+Incentive Performance Simulation Model
+نموذج حساب عمولات باستخدام Excel لمحاكاة أنظمة الحوافز وتحليل تأثيرها على الأداء.
+
+طرق التواصل:
+Email: [ahmedabdelsalam.300200@gmail.com](mailto:ahmedabdelsalam.300200@gmail.com)
+GitHub: https://github.com/ahmedmohamedabdelsalam
+LinkedIn: https://www.linkedin.com/in/ahmed-abdelsalam-794286245/
