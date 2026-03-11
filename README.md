@@ -17,7 +17,7 @@ pinned: false
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)
 ![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=huggingface)
 
-**[🚀 Try the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Abdelsalam-1/Smart-RAG-Chatbot)**
+**[ Try the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Abdelsalam-1/Smart-RAG-Chatbot)**
 
 Are you looking for an AI agent that doesn't just "talk", but actually *knows* about you or your business? You've found the right repository.
 
